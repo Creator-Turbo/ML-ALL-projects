@@ -23,7 +23,7 @@ This project processes user reviews of Steam games and predicts whether the sent
 
 ## Steam Review Sentiment Analysis
 
-![Steam Sentiment Analysis](https://i.imgur.com/O6Q1lGv.png)
+![Steam Sentiment Analysis](https://i.imgur.com/nN4RaWV.png)
 
 
 ---
