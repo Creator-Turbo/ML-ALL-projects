@@ -1,4 +1,4 @@
-# Steam Review Sentiment Analysis
+# Car Price Prediction
 
 ### Table of Contents
 - [Demo](#demo)
@@ -18,47 +18,52 @@
 ---
 
 ## Demo
-This project processes user reviews of Steam games and predicts whether the sentiment is positive or negative.  
-**Link to Demo:** [Steam Review Sentiment Analysis](https://steam-review-sentiment-analysis.onrender.com) 
+This project predicts the price of a car based on its features such as make, model, year, mileage, fuel type, etc.  
+**Link to Demo:** [Car Price Prediction](https://steam-review-sentiment-analysis.onrender.com) 
 
-## Steam Review Sentiment Analysis
+## Car Price Prediction
 
-![Steam Sentiment Analysis](https://i.imgur.com/O6Q1lGv.png)
+![Steam Sentiment Analysis](https://i.imgur.com/nN4RaWV.png)
 
 
 ---
 
 ## Overview
-The **Steam Review Sentiment Analysis** project focuses on analyzing user reviews from the Steam platform to classify them as positive  or negative. Using natural language processing (NLP) and machine learning techniques, the project provides insights into user feedback and gaming trends.
-Add all algo
+The Car Price Prediction project utilizes machine learning algorithms to estimate the price of a car based on its attributes. The model is trained on a comprehensive dataset of car features and prices, ensuring accurate predictions.
 
 Key features:
-- Preprocessing of review text data
-- Sentiment classification using machine learning models
-- Interactive web application for real-time predictions
+
+Advanced data preprocessing techniques for numerical and categorical data.
+Model training and evaluation for high accuracy.
+Interactive web application for user-friendly predictions.
+
 
 ---
 
 ## Motivation
-Analyzing user sentiment in reviews helps game developers and stakeholders understand user satisfaction and address critical feedback. This project demonstrates the practical use of NLP and machine learning to solve a real-world problem in the gaming industry.
+Understanding car prices is crucial for both buyers and sellers. This project helps provide accurate price estimates, enabling users to make informed decisions in the automotive market.
 
 ---
 
 ## Technical Aspect
-### Training Machine Learning Models:
-1. **Data Collection**: Reviews are collected from the Steam platform dataset.
-2. **Preprocessing**:
-   - Tokenization, stop-word removal, and stemming/lemmatization.
-   - Converting text to numerical features using methods like Bag-of-Words or TF-IDF.
-3. **Model Training**:
-   - Classifiers such as Logistic Regression, Naive Bayes, or Random Forest.
-   - Hyperparameter tuning for optimal performance.
-4. **Model Evaluation**:
-   - Performance metrics include accuracy, F1 score, precision, and recall.
+Training Machine Learning Models:
 
-### Building and Hosting a Flask Web App:
-1. A Flask-based web application allows users to input reviews and view sentiment predictions in real-time.
-2. Deployment on Render for easy access.
+- Data Collection: Car data with attributes like make, model, year, mileage, etc.
+
+Preprocessing:
+- Handling missing values and outliers.
+- Encoding categorical features using one-hot encoding.
+- Scaling numerical features.
+
+Model Training:
+- Algorithms: Linear Regression, Random Forest, Gradient Boosting.
+- Hyperparameter tuning using GridSearchCV.
+
+Model Evaluation:
+- Metrics: Mean Squared Error (MSE), R-squared score.
+- Building and Hosting a Flask Web App:
+- Flask-based interface for users to input car details and get price predictions.
+- Deployment on platforms like Render or Heroku for public accessibility.
 
 ---
 
