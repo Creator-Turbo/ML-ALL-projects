@@ -1,14 +1,10 @@
 # Car Price Prediction
 
 ### Table of Contents
-- [Demo](#demo)
 - [Overview](#overview)
 - [Motivation](#motivation)
 - [Technical Aspect](#technical-aspect)
 - [Installation](#installation)
-- [Run](#run)
-- [Deployment on Render](#deployment-on-render)
-- [Directory Tree](#directory-tree)
 - [To Do](#to-do)
 - [Bug / Feature Request](#bug--feature-request)
 - [Technologies Used](#technologies-used)
@@ -17,9 +13,6 @@
 
 ---
 
-## Demo
-This project predicts the price of a car based on its features such as make, model, year, mileage, fuel type, etc.  
-**Link to Demo:** [Car Price Prediction](https://steam-review-sentiment-analysis.onrender.com) 
 
 ## Car Price Prediction
 
@@ -74,58 +67,23 @@ The Code is written in Python 3.10. If you don't have Python installed you can f
 
 ```bash
 
-gh repo clone Creator-Turbo/Steam-Review-Sentiment-Analysis
+gh repo clone Creator-Turbo/ML-ALL-projects
 
 ```
-# Install dependencies: (all lib)
-```bash
-pip install -r requirements.txt
-```
 
-
-
-## Run
-To train the Machine leaning models:
- To run the Flask web app locally
-```bash
-python app.py
-
-```
-# Deployment on Render
-
-## To deploy the Flask web app on Render:
-Push your code to GitHub.<br>
-Go to Render and create a new web service.<br>
-Connect your GitHub repository to Render.<br>
-Set up the environment variables if required (e.g., API keys, database credentials).<br>
-Deploy and your app will be live!
-
-
-
-## Directory Tree 
-```
-.
-├── data
-│   ├── steam_reviews.csv
-├── model
-│   ├── sentiment_model.pkl
-├── static
-│   ├── style.css
-├── templates
-│   ├── index.html
-├── app.py
-├── train_model.py
-├── requirements.txt
-├── README.md
-
-```
 
 ## To Do
 
-- Define the project goal,"
- prepare the data, and train the model.
-- Set up monitoring tools to track its performance.
-- Automate the pipeline, document the process, test the system, and ensure continuous improvement.
+To make the web app  using  Flask.<br>
+Create a app.py file for the Flask application.<br>
+Define the routes and logic for the web app.<br>
+Test the app locally using python app.py.<br>
+Choose a deployment platform (Heroku, AWS, or Google Cloud).<br>
+Prepare deployment files (requirements.txt, Procfile, etc.).<br>
+Deploy the app to the selected platform.<br>
+Set up logging for predictions and accuracy monitoring.<br>
+Use monitoring tools like Prometheus or Evidently AI.<br>
+Implement automated retraining for model performance.<br>
 
 
 
