@@ -16,7 +16,7 @@
 
 ## Fictional Character Battle Outcome Prediction
 
-![Steam Sentiment Analysis](https://storage.googleapis.com/kaggle-datasets-images/5229220/8715864/c4c81de9fc5623c8e7271adf821bab67/dataset-cover.jpg?t=2024-06-18-00-04-27)
+![Steam Sentiment Analysis](https://i.imgur.com/FmJMyEL.jpeg)
 
 
 ---
