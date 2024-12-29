@@ -14,9 +14,9 @@
 ---
 
 
-## Car Price Prediction
+## Fictional Character Battle Outcome Prediction
 
-![Steam Sentiment Analysis](https://camo.githubusercontent.com/fb31ab9dbe753e49a3e7e50e3ff849b1d410160ddaf4b06b0e30218164d2ca81/68747470733a2f2f7777772e7175657374696f6e70726f2e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032332f30342f656d706c6f7965652d726574656e74696f6e2e6a7067)
+![Steam Sentiment Analysis](https://storage.googleapis.com/kaggle-datasets-images/5229220/8715864/c4c81de9fc5623c8e7271adf821bab67/dataset-cover.jpg?t=2024-06-18-00-04-27)
 
 
 ---
