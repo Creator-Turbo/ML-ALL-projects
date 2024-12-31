@@ -14,9 +14,9 @@
 ---
 
 
-## Heart Attack Analysis & Prediction
+## HR Analysis Case Study
 
-![Heart Attack Analysis & Prediction](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcaQgntvcwHYtNv_8R9gHxrq6ootqCCHJMTw&s)
+![Heart Attack Analysis & Prediction](https://i.imgur.com/u7zfqpq.jpeg)
 
 
 ---
