@@ -1,4 +1,4 @@
-# Online Food Delivery Prediction
+# Predict Customer Purchase Behavior
 
 ### Table of Contents
 - [Overview](#overview)
@@ -14,9 +14,9 @@
 ---
 
 
-## Online Food Delivery Prediction
+## Predict Customer Purchase Behavior
 
-![Heart Attack Analysis & Prediction](https://i.imgur.com/4eJxLtN.jpeg)
+![Heart Attack Analysis & Prediction](https://i.imgur.com/FY5NAQd.png)
 
 
 ---
